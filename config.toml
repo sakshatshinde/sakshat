@@ -2,8 +2,8 @@
 base_url = "/"
 
 # Used in RSS by default
-title = "My blog!"
-description = "placeholder description text for your blog!"
+title = "Sakshat's blog"
+description = "I'm writing this blog to just get stuff out on the ether"
 
 # The default language, used in RSS
 # TODO: I would love to support more languages and make this easy to handle
@@ -33,16 +33,13 @@ highlight_code = true
 # https://www.getzola.org/documentation/getting-started/configuration/#syntax-highlighting
 # for more information and themes built into Zola.
 highlight_theme = "axar" # Other dark themes that work: "1337", "agola-dark",
-                         # "visual-studio-dark"
+# "visual-studio-dark"
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
 
 # Built in taxonomies of zerm.
-taxonomies = [
-           {name = "tags"},
-           {name = "categories"},
-]
+taxonomies = [{ name = "tags" }, { name = "categories" }]
 
 [extra]
 # Put all your custom variables here
@@ -51,10 +48,10 @@ taxonomies = [
 # ---------------------------------------------------------
 
 # Author name to be added to posts, if enabled.
-author = "you!"
+author = "Sakshat Shinde"
 
 # Show author's name in blog post meta data.
-show_author = false
+show_author = true
 
 # Show categories a blog post is marked with in its meta data.
 show_categories = true
@@ -94,7 +91,7 @@ center = false
 # copyright = "copyright notice here"
 
 # What is displayed in the top left corner of the website. Default is zerm.
-logo_text = "zerm"
+logo_text = "sakshat"
 
 # Link in logo. Default returns you to $BASE_URL.
 logo_home_link = "/"
@@ -102,9 +99,9 @@ logo_home_link = "/"
 # Menu items to display. You define a url and the name of the menu item.
 # NOTE: `$BASE_URL/` must be included in the url name.
 main_menu = [
-              {url="/about/", name="about"},
-              {url="/contact/", name="contact"},
-              {url="https://google.com", name="Google", external=true},
+    { url = "/about/", name = "about" },
+    { url = "/contact/", name = "contact" },
+    { url = "https://github.com/sakshatshinde/", name = "GitHub", external = true },
 ]
 
 # Displayed as title of drop-down menu when size of main_menu > show_menu_items.
@@ -123,7 +120,7 @@ read_other_posts = "read other posts"
 enable_katex = true
 
 # Options for disqus
-disqus = { enabled=false, short_name="" }
+disqus = { enabled = false, short_name = "" }
 
 # generate Table of Contents for all articles
 # Table of Contents can be generated for individual articles
