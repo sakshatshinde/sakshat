@@ -12,4 +12,12 @@ categories = ["travel", "misc.",]
 ToC = true
 +++
 
-# Picking Kazakhstan
+# Why Kazakhstan?
+
+# Locations
+
+# Memorable incidents
+
+# Cost
+
+# Things to look out for
