@@ -39,7 +39,7 @@ highlight_theme = "axar" # Other dark themes that work: "1337", "agola-dark",
 build_search_index = false
 
 # Built in taxonomies of zerm.
-taxonomies = [{ name = "tags" }, { name = "categories" },]
+taxonomies = [{ name = "tags" }, { name = "categories" }]
 
 [extra]
 # Put all your custom variables here
@@ -71,7 +71,7 @@ theme_color = "orange"
 
 # How many menu items to show on desktop. if you set this to 0, only submenu
 # button will be visible.
-show_menu_items = 2
+show_menu_items = 3
 
 # set theme to full screen width.
 full_width = false
@@ -101,7 +101,9 @@ logo_home_link = "/"
 main_menu = [
     { url = "/about/", name = "about" },
     { url = "/contact/", name = "contact" },
-    { url = "https://github.com/sakshatshinde", name = "GitHub", external = true },
+    { url = "https://github.com/sakshatshinde", name = "github", external = true },
+    { url = "https://sakshat.framer.ai", name = "portfolio", external = true },
+    { url = "https://www.behance.net/sakshat", name = "behance", external = true },
 ]
 
 # Displayed as title of drop-down menu when size of main_menu > show_menu_items.
