@@ -39,7 +39,7 @@ highlight_theme = "axar" # Other dark themes that work: "1337", "agola-dark",
 build_search_index = false
 
 # Built in taxonomies of zerm.
-taxonomies = [{ name = "tags" }, { name = "categories" }]
+taxonomies = [{ name = "tags" }, { name = "categories" },]
 
 [extra]
 # Put all your custom variables here

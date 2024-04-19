@@ -1,14 +1,13 @@
 {% macro copyright() %}
-{%- if config.extra.copyright -%}
-<div class="copyright copyright--user">{{ config.extra.copyright | safe }}</div>
-{%- else -%}
-<div class="copyright">
-    <span>© {{ now() | date(format="%Y") }} <a href="https://github.com/sakshatshinde/">Sakshat Shinde</a>
-    <span>| Creative Commons Zero v1.0 Universal</span>
-</div>
-{%- endif -%}
+    {%- if config.extra.copyright -%}
+        <div class="copyright copyright--user">{{ config.extra.copyright | safe }}</div>
+    {%- else -%}
+        <div class="copyright">
+            <span>© {{ now() | date(format="%Y") }} Sakshat Shinde :: Creative Commons Zero v1.0 Universal</span>
+        </div>
+    {%- endif -%}
 {% endmacro copyright %}
 
 {% macro script() %}
-<script type="text/javascript" src="{{ get_url(path=" assets/js/main.js") }}"></script>
+    <script type="text/javascript" src="{{ get_url(path="assets/js/main.js") }}"></script>
 {% endmacro script %}
