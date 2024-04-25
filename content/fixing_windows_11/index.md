@@ -1,7 +1,7 @@
 +++
 title="Fixing Windows 11"
 description="fixing windows 11 by trimming the iso"
-date=2024-04-25
+date=2024-04-11
 
 [taxonomies]
 tags = ["windows"]
