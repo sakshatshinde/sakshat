@@ -33,6 +33,8 @@ Tbh, I didn't even know Kazakhstan 🇰🇿 existed. One of my dear friend `Suji
 
 Do not get a private taxi from the airport no matter what. It is a scam. Always book taxis through `YandexGo`. 
 
+Only convert fractional of your `USD $` to `Tenge ₸` for getting your SIM and taxi to your accomodation. Please use something like [`MiG exchange`](https://maps.app.goo.gl/NAHn6hNUMA8a2w2U8) when you get to downtown - iirc there is one near the airport as well - ask your taxi driver to stop by the nearest MiG.
+
 Kazakhs love meat, I mean they REALLY love meat - if you are vegan/vegetarian goodluck. I could only eat fruits and few shops had very limited vegetarian options, which frankly I am not sure were actually vegetarian because in Kazakhstan 🇰🇿 there are no labels or distinction on food products. We just ended up using Google Translate on the ingredients list for the entirety of our trip.
 
 People here don't speak english. `Google Translate` is indispensable, most people speak Russian and Kazakh. The only people we found who spoke english were the immigration agents at the airport. Because of this travelling alone is an adventure in itself.
