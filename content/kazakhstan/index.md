@@ -24,11 +24,46 @@ Tbh, I didn't even know Kazakhstan 🇰🇿 existed. One of my dear friend `Suji
 - It is beautiful, and tourist-free
 - Almaty and Astana governments are pushing for more tourist schemes like [Almaty City Pass](https://almaty.citypass.kz/en/) and [Astana Pass](https://astana.citypass.kz/en/)
 
+---
+
 # Locations
+- Shymbulak Mountain Resort
+- First President's Park
+- Arbat Shopping Street
+- Dostyk Plaza
+- Kok-Tobe Hill
+- Charyn Canyon
+- Uzunbulak Canyon (Moon Canyon)
+- Kolsay Lake
+- Kaindy Lake
+- Zeleny Bazar
+- Medeu Skating Ring and Ski resort
+- 28 Panfilov Guardsmen Park
+- Ascension Cathedral
+- MEGA Alma-Ata Mall
+- Rakhat Candy Factory
+
+[TripAdvisor link](https://www.tripadvisor.in/TripDetails-t130856726)
+
+---
 
 # Memorable incidents
 
+I will write this eventually... gonna be a long one.
+
+---
+
 # Cost
+
+It cost me `₹ 32,539` or `$ 390` all-inclusive even the return flights, some souvenirs and 2 kilograms of chocolate - ❤️ [Rakhat](https://www.rakhat.kz/en)
+
+For Sujit itt was `₹ 31,396` or `$ 376` and for another friend Sharad it was `₹ 32,083` or `$ 385`.
+
+I am pretty sure we would have spent more if we travelled domestically to [Jammu and Kashmir](https://maps.app.goo.gl/Qza6QA9x4upm1SJx9)
+
+> You can download our detailed cost-sheet [here](https://files.catbox.moe/i9c120) 
+
+---
 
 # Things to look out for
 
@@ -49,6 +84,8 @@ Please do not take Ski equipment on public transport if possible, if you do - th
 Be careful of booking your stay via any aggregator. I mentioned what happened to us in the `Memorable incidents` section. Just have a backup plan. Try to not get stranded in `-24°C` at 01:00 am after a 6 hr flight and a 3.5 hr train journey like we did.
 
 Suprisingly we didn't come across any tourist traps except the private taxis, I guess because there are not a lot of tourists and even those are mostly russian tourists.
+
+---
 
 # Things we did not expect
 
@@ -73,3 +110,4 @@ Kazakh songs are amazing! To name a few...
 - [RaiM & Artur feat. Zhenis - Дискотека из 90 (2018)](https://youtu.be/yBzk2xXE9yg?si=_jStg-UtqOxtDORw) 
 - [Рахымжан Жақайым - Достарым менің золотой](https://youtu.be/FlfqRd1Wdqo?si=DWiAx5WRBZzqCZXN)
 
+---
