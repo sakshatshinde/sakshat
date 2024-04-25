@@ -61,7 +61,7 @@ For Sujit itt was `₹ 31,396` or `$ 376` and for another friend Sharad it was `
 
 I am pretty sure we would have spent more if we travelled domestically to [Jammu and Kashmir](https://maps.app.goo.gl/Qza6QA9x4upm1SJx9)
 
-> You can download our detailed cost-sheet [here](https://files.catbox.moe/i9c120) 
+> You can download our detailed cost-sheet [here](https://files.catbox.moe/heirxg.pdf) 
 
 ---
 
