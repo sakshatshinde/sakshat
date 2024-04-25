@@ -20,8 +20,9 @@ Tbh, I didn't even know Kazakhstan 🇰🇿 existed. One of my dear friend `Suji
 - Accomadation was cheap and comparable to the indian market, sometimes it was even cheaper
 - Skiing in Kazakhstan 🇰🇿 is cheaper than Kashmir, India 🇮🇳 by a factor of `10`
 - Mumbai `BOM` to Almaty `ALA` return flights are cheaper than most domestic flights within India 🇮🇳 `₹12.5k ~ $150`
-- Public transport is cheap in Kazakhstan 🇰🇿 You pay a `100 ₸` and get off wherever you want
+- Public transport is cheap in Kazakhstan 🇰🇿 You pay a `100 〒` and get off wherever you want
 - It is beautiful, and tourist-free
+- Almaty and Astana governments are pushing for more tourist schemes like [Almaty City Pass](https://almaty.citypass.kz/en/) and [Astana Pass](https://astana.citypass.kz/en/)
 
 # Locations
 
@@ -33,7 +34,7 @@ Tbh, I didn't even know Kazakhstan 🇰🇿 existed. One of my dear friend `Suji
 
 Do not get a private taxi from the airport no matter what. It is a scam. Always book taxis through `YandexGo`. 
 
-Only convert fractional of your `USD $` to `Tenge ₸` for getting your SIM and taxi to your accomodation. Please use something like [`MiG exchange`](https://maps.app.goo.gl/NAHn6hNUMA8a2w2U8) when you get to downtown - iirc there is one near the airport as well - ask your taxi driver to stop by the nearest MiG.
+Only convert fractional of your `USD $` to `KZT 〒` for getting your SIM and taxi to your accomodation. Please use something like [`MiG exchange`](https://maps.app.goo.gl/NAHn6hNUMA8a2w2U8) when you get to downtown - iirc there is one near the airport as well - ask your taxi driver to stop by the nearest MiG.
 
 Kazakhs love meat, I mean they REALLY love meat - if you are vegan/vegetarian goodluck. I could only eat fruits and few shops had very limited vegetarian options, which frankly I am not sure were actually vegetarian because in Kazakhstan 🇰🇿 there are no labels or distinction on food products. We just ended up using Google Translate on the ingredients list for the entirety of our trip.
 
