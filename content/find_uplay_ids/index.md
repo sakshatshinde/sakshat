@@ -30,7 +30,6 @@ After some digging and asking around, I was able to find that there are two ways
 ### Below is the python code for extracting IDs via these folders
 
 ```py
-
 import winreg, os, re
 
 # Finding Uplay IDs by going through the uPlay data folder
@@ -50,7 +49,6 @@ def getUplayIDs(filePath = 'C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launc
 ## Second way :: extracting info from Windows Registry
 
 ```py
-
 def getUplayIDs():
     # ubisoftGameList = {}
 
