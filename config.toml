@@ -127,5 +127,5 @@ highlight_code = true
 # Syntax highlighting theme. See:
 # https://www.getzola.org/documentation/getting-started/configuration/#syntax-highlighting
 # for more information and themes built into Zola.
-highlight_theme = "axar" # Other dark themes that work: "1337", "agola-dark",
+highlight_theme = "OneHalfDark" # Other dark themes that work: "1337", "agola-dark",
 # "visual-studio-dark"
