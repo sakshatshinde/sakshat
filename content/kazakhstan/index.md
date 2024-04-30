@@ -14,7 +14,7 @@ ToC = true
 
 # Why Kazakhstan 🇰🇿
 
-Tbh, I didn't even know Kazakhstan 🇰🇿 existed. One of my dear friend `Sujit` discovered what Central-Asia was, when one of his co-workers moved abroad to Tajikistan 🇹🇯. It looked beautiful judging by the photos on the internet, and we were planning to visit some place outside India 🇮🇳 for quite a long time. Sujit stumbled upon Kazakhstan 🇰🇿 while researching about Central-Asia, to our surprise it was `Visa-Free`. Considering how bad indian passport really is, we started looking into what Kazakhstan 🇰🇿 had to offer. We found the following things...
+Tbh, I didn't even know Kazakhstan 🇰🇿 existed. One of my dear friend `Sujit` discovered what Central-Asia was, when one of his co-workers moved abroad to Uzbekistan 🇺🇿. It looked beautiful judging by the photos on the internet, and we were planning to visit some place outside India 🇮🇳 for quite a long time. Sujit stumbled upon Kazakhstan 🇰🇿 while researching about Central-Asia, to our surprise it was `Visa-Free`. Considering how bad indian passport really is, we started looking into what Kazakhstan 🇰🇿 had to offer. We found the following things...
 
 - `₹ 1` Indian Rupee = `〒 5.40` Kazakhstani Tenge [Feb 2024]
 - Accommodation was cheap and comparable to the indian market, sometimes it was even cheaper
