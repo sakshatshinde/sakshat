@@ -39,14 +39,14 @@ These are few places where we had a great time.
 - Uzunbulak Canyon (Moon Canyon)
 - Kolsay Lake
 - Kaindy Lake
-- Zeleny Bazar
+- Zeleny Bazar or Green bazar
 - Medeu Skating Ring and Ski resort
 - 28 Panfilov Guardsmen Park
 - Ascension Cathedral
 - MEGA Alma-Ata Mall
 - Rakhat Candy Factory
 
-[TripAdvisor link](https://www.tripadvisor.in/TripDetails-t130856726)
+[Here is the TripAdvisor link for the trip details](https://www.tripadvisor.in/TripDetails-t130856726)
 
 ## However I'd also like to mention few places which were quite nice.
 
@@ -56,7 +56,7 @@ We also randomly found a japanese shop - [`Yaponskiy Magazin Японский М
 
 Later on we were trying to find a souvenir shop and stumbled upon [`SINICHKI.STORE -Almaty, Aiteke Bi Street, 53`](https://yandex.com/maps/org/sinichki_store/158032250117). Decent place and we were able to find few unique fridge magnets to take home (apparently Sujit collects fridge magents from the places he visits).
 
-[`Dostyk Plaza`](https://maps.app.goo.gl/ZJrBqiX3LmCrW2689), was one of my favorite places here in Almaty. I know its just a mall but I really liked the vibe here. People seemed more friendly and talkative than the average bunch we met throughout our trip. I visited one of the clothing stores and a couple of cashiers rounded me up and had an `interogation` of sorts about my clothes and where they were from, where I was from and how did I get here. They were intrigued perhaps because I was the only one who didn't follow the social norm of wearing black/grey clothes and was standing out quite a bit - and off-course I didn't look like Kazakh. Clothes here in kazakhstan 🇰🇿 are almost as cheap if not cheaper than they're in India 🇮🇳
+[`Dostyk Plaza`](https://maps.app.goo.gl/ZJrBqiX3LmCrW2689), was one of my favorite places here in Almaty. I know its just a mall but I really liked the vibe here. People seemed more friendly and talkative than the average bunch we met throughout our trip. I visited one of the clothing stores and a couple of cashiers rounded me up and had an `interrogation` of sorts about my clothes and where they were from, where I was from and how did I get here. They were intrigued perhaps because I was the only one who didn't follow the social norm of wearing black/grey clothes and was standing out quite a bit - and off-course I didn't look like Kazakh. Clothes here in kazakhstan 🇰🇿 are almost as cheap if not cheaper than they're in India 🇮🇳
 
 ---
 
@@ -70,7 +70,7 @@ I will write this eventually... gonna be a long one.
 
 It cost me `₹ 32,539` or `$ 390` all-inclusive even the return flights, some souvenirs and 2 kilograms of chocolate - ❤️ [Rakhat](https://www.rakhat.kz/en)
 
-For Sujit itt was `₹ 31,396` or `$ 376` and for another friend Sharad it was `₹ 32,083` or `$ 385`.
+For Sujit it was `₹ 31,396` or `$ 376` and for another friend Sharad it was `₹ 32,083` or `$ 385`.
 
 I am pretty sure we would have spent more if we travelled domestically to [Jammu and Kashmir](https://maps.app.goo.gl/Qza6QA9x4upm1SJx9)
 
