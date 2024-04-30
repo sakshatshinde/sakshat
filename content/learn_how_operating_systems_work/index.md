@@ -21,7 +21,6 @@ Traditionally one would say it is essentially a program which runs other program
 - the Drivers
 
 These three components and many others work together to create an abstracted layer for the user by which they can interact with the machine easily. Essentially these programs are the ones who interact with the bare metal. Example when you press a key on your keyboard, the computer knows which key was pressed and does the job accordingly. Your monitor displays certain stuff depending on the given input so on and so forth. It also interacts with your RAM, CPU and other components in different ways.
-Overview of an operating system
 
 If you wish to know more about the individual components, checkout my paper linked below which explains those components in detail.
 It's relatively easy to understand, I promise :p
