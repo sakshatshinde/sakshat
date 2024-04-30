@@ -62,7 +62,11 @@ Later on we were trying to find a souvenir shop and stumbled upon [`SINICHKI.STO
 
 # Memorable incidents
 
-I will write this eventually... gonna be a long one.
+Imagine arriving at a country you never heard about in the middle of the night, freezing cold, only to findout your host is MIA. Our host didn't respond to calls and messages when we left the airport around `00:30` in `-24°C` freezing cold. We checked a couple of apartments but it was quite late and no one was around, an hour passed and we couldn't find the place - so we took shelter in a closed shop. A random Glovo delivery driver spotted us and helped us find a hostel to sleep-in for the night. He was so nice and went out of his way to help us, didn't even speak english and definitely didn't have to help us but he did anyway. Such a lifesaver. The next day we found another apartment and left at `07:00` in the morning. Lessons learned - always check with your host before you leave the airport or there's a chance you will freeze to death.
+
+People at the hostel welcomed us and gave us food. Most of them were factory workers and immigrants looking to make a living and get by. Now here is the thing, we were expecting to get ripped-off at this point because we literally had nowhere else to go, but to our surprise nothing of the sort happened. They just charged us the regular and that was it. In that moment we pretty much experienced the best and worst part of our trip. Some people are good some are bad, everyone's different.
+
+Will continue to add more as I get some time...
 
 ---
 
