@@ -184,9 +184,9 @@ Only convert fractional of your `USD $` to `KZT 〒` for getting your SIM and ta
 
 Kazakhs love meat, I mean they REALLY love meat - if you are vegan/vegetarian goodluck. I could only eat fruits and few shops had very limited vegetarian options, which frankly I am not sure were actually vegetarian because in Kazakhstan 🇰🇿 there are no labels or distinction on food products. We just ended up using Google Translate on the ingredients list for the entirety of our trip. If you want to order food online, use [Glovo](https://glovoapp.com/) its the Kazakh DoorDash/Swiggy.
 
-People here don't speak english. `Google Translate` is indispensable, most people speak Russian and Kazakh. The only people we found who spoke english were the immigration agents at the airport. Because of this travelling alone is an adventure in itself.
+People here don't speak english. `Google Translate` is indispensable, most people speak Russian and Kazakh. The only people we found who spoke english were the immigration agents at the airport and luckily our landlord. Because of this travelling alone is an adventure in itself.
 
-Fashion. Apparently dressing colorful here is something most people don't do - I think its more of a European-Culture thing than just an Kazakh thing. Regardless pack dull colors of clothes if you can. Another thing, people here don't usually smile - it is considered a sign of `stupidity`. I personally don't have an opinion on this, it's a cultural thing and smiling didn't get us into trouble and we were smiliing 24x7 while we were in Kazakhstan 🇰🇿. Off-course you get a `foreigner-pass` so don't fret about it.
+Fashion. Apparently dressing colorful is not the norm - maybe its more of a european thing. People here don't usually smile - it is considered a sign of `stupidity`. I personally don't have an opinion on this, it's a cultural thing and smiling didn't get us into trouble and we were smiliing 24x7 while we were in Kazakhstan 🇰🇿. Off-course you get the `foreigner-pass` so don't fret about it.
 
 I'd usually tell people to be beware about shady areas but in Almaty even those areas were quite ok, they didn't feel as bad or scary. It was mostly people over-staying their visas and living in old apartments trying to earn a living. We couldn't find any homeless people there.
 
@@ -200,7 +200,7 @@ Suprisingly we didn't come across any tourist traps except the private taxis, I 
 
 # Things we did not expect
 
-Lots of koreans in Almaty. We saw a decent amount of koreans - maybe even upwards of `30%` of people were of korean decent. They are the next generation of `Koryo-saram`.
+Lots of koreans in Almaty. We saw a decent amount of koreans - maybe even upwards of `30%` of people we saw were of korean decent. They are the next generation of `Koryo-saram`.
 
 > Koryo-saram 고려사람 are ethnic Koreans in the post-Soviet states that descend from Koreans who were living in the Russian Far East.
 
@@ -212,7 +212,7 @@ Roads are slippery, you will fall atleast once in your trip if you come here dur
 
 I might be generalizing a bit here but we geniunely felt people were reserved, unenthusiatic and a little depressed even. Although every single person helped us. I guess its more of the european culture of `minding your own business`. One incident that comes to mind is when we saw a 6 year old spill his drink in the mall and his mom gazed at him as if she would disown him immediately - which felt like an over-reaction to an outsider like me and the look on the kids face was priceless.
 
-Almost everyone had an `iPhone Pro Max`, financed off-course but at 0% interest split payments for up to 24 months. *Казах без понтов, беспонтовый казах* is a saying which translates to - *Kazakh without bragging, is a bad Kazakh*
+Almost everyone had an `iPhone Pro Max`, financed off-course. *Казах без понтов, беспонтовый казах* is a saying which translates to - *Kazakh without bragging, is a bad Kazakh*
 
 Kazakhstan 🇰🇿 has digital payments almost everywhere thanks to [Kaspi](https://kaspi.kz/)
 
