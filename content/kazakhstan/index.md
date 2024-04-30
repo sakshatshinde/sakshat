@@ -17,7 +17,7 @@ ToC = true
 Tbh, I didn't even know Kazakhstan 🇰🇿 existed. One of my dear friend `Sujit` discovered what Central-Asia was, when one of his co-workers moved abroad to Tajikistan 🇹🇯. It looked beautiful judging by the photos on the internet, and we were planning to visit some place outside India 🇮🇳 for quite a long time. Sujit stumbled upon Kazakhstan 🇰🇿 while researching about Central-Asia, to our surprise it was `Visa-Free`. Considering how bad indian passport really is, we started looking into what Kazakhstan 🇰🇿 had to offer. We found the following things...
 
 - `₹ 1` Indian Rupee = `〒 5.40` Kazakhstani Tenge [Feb 2024]
-- Accomadation was cheap and comparable to the indian market, sometimes it was even cheaper
+- Accommodation was cheap and comparable to the indian market, sometimes it was even cheaper
 - Skiing in Kazakhstan 🇰🇿 is cheaper than Kashmir, India 🇮🇳 by a factor of `10`
 - Mumbai `BOM` to Almaty `ALA` return flights are cheaper than most domestic flights within India 🇮🇳 `₹12.5k ~ $150`
 - Public transport is cheap in Kazakhstan 🇰🇿 You pay a `100 〒` and get off wherever you want
@@ -48,15 +48,15 @@ These are few places where we had a great time.
 
 [Here is the TripAdvisor link for the trip details](https://www.tripadvisor.in/TripDetails-t130856726)
 
-## However I'd also like to mention few places which were quite nice.
+## However I'd also like to mention a few places which were quite nice.
 
-Cheapest place to get rental ski gear that we could find - [`Free Life - Kairbekov St. 16, Almaty 050000, Kazakhstan`](https://maps.app.goo.gl/H9sircE1Ew1FZ1Be8). The staff here was super nice. We asked them if we could return the skis after their working hours, they agreed without any fuss - and waited `30m` past their closing time. We really appreciated this gesture and want to give them a huge shoutout.If you are in Almaty please check them out.
+Cheapest place to get rental ski gear that we could find - [`Free Life - Kairbekov St. 16, Almaty 050000, Kazakhstan`](https://maps.app.goo.gl/H9sircE1Ew1FZ1Be8). The staff here was super nice. We asked them if we could return the skis after their working hours. They agreed without any fuss and waited `30m` past their closing time. We really appreciated this gesture and want to give them a huge shoutout.If you are in Almaty please check them out.
 
-We also randomly found a japanese shop - [`Yaponskiy Magazin Японский Магазин - Seyfullin Avenue 510, Almaty 050000, Kazakhstan`](https://maps.app.goo.gl/ddBxZhWUrcu1sGE3A). Stuff here was decent and the owner were hospitable. This one seems like a [retail chain](https://japanshop.kz/) shop so YMMV.
+We also randomly found a japanese shop - [`Yaponskiy Magazin Японский Магазин - Seyfullin Avenue 510, Almaty 050000, Kazakhstan`](https://maps.app.goo.gl/ddBxZhWUrcu1sGE3A). Stuff here was decent and the staff was hospitable. This one seems like a [retail chain](https://japanshop.kz/) shop so YMMV.
 
-Later on we were trying to find a souvenir shop and stumbled upon [`SINICHKI.STORE -Almaty, Aiteke Bi Street, 53`](https://yandex.com/maps/org/sinichki_store/158032250117). Decent place and we were able to find few unique fridge magnets to take home (apparently Sujit collects fridge magents from the places he visits).
+Later on we were trying to find a souvenir shop and stumbled upon [`SINICHKI.STORE -Almaty, Aiteke Bi Street, 53`](https://yandex.com/maps/org/sinichki_store/158032250117). Decent place and we were able to find few unique fridge magnets to take home (apparently Sujit collects fridge magnets from the places he visits).
 
-[`Dostyk Plaza`](https://maps.app.goo.gl/ZJrBqiX3LmCrW2689), was one of my favorite places here in Almaty. I know its just a mall but I really liked the vibe here. People seemed more friendly and talkative than the average bunch we met throughout our trip. I visited one of the clothing stores and a couple of cashiers rounded me up and had an `interrogation` of sorts about my clothes and where they were from, where I was from and how did I get here. They were intrigued perhaps because I was the only one who didn't follow the social norm of wearing black/grey clothes and was standing out quite a bit - and off-course I didn't look like Kazakh. Clothes here in kazakhstan 🇰🇿 are almost as cheap if not cheaper than they're in India 🇮🇳
+[`Dostyk Plaza`](https://maps.app.goo.gl/ZJrBqiX3LmCrW2689), was one of my favorite places here in Almaty. I know its just a mall but I really liked the vibe here. People seemed more friendly and talkative than the average bunch we met throughout our trip. I visited one of the clothing stores and a couple of cashiers rounded me up and had an `interrogation` of sorts about my clothes and where they were from, where I was from and how did I get here. They were intrigued perhaps because I was the only one who didn't follow the social norm of wearing black/grey clothes and was standing out quite a bit - and of course I didn't look like Kazakh. Clothes here in kazakhstan 🇰🇿 are almost as cheap if not cheaper than they're in India 🇮🇳
 
 ---
 
@@ -76,7 +76,7 @@ It cost me `₹ 32,539` or `$ 390` all-inclusive even the return flights, some s
 
 For Sujit it was `₹ 31,396` or `$ 376` and for another friend Sharad it was `₹ 32,083` or `$ 385`.
 
-I am pretty sure we would have spent more if we travelled domestically to [Jammu and Kashmir](https://maps.app.goo.gl/Qza6QA9x4upm1SJx9)
+I am pretty sure we would have spent more if we had travelled domestically to [Jammu and Kashmir](https://maps.app.goo.gl/Qza6QA9x4upm1SJx9)
 
 > You can download the below detailed cost-sheet [here](https://files.catbox.moe/heirxg.pdf) 
 
@@ -92,7 +92,7 @@ Kazakhs love meat, I mean they REALLY love meat - if you are vegan/vegetarian go
 
 People here don't speak english. `Google Translate` is indispensable, most people speak Russian and Kazakh. The only people we found who spoke english were the immigration agents at the airport and luckily our landlord. Because of this travelling alone is an adventure in itself.
 
-Fashion. Apparently dressing colorful is not the norm - maybe its more of a european thing. People here don't usually smile - it is considered a sign of `stupidity`. I personally don't have an opinion on this, it's a cultural thing and smiling didn't get us into trouble and we were smiliing 24x7 while we were in Kazakhstan 🇰🇿. Off-course you get the `foreigner-pass` so don't fret about it.
+Fashion. Apparently dressing colorful is not the norm - maybe its more of a european thing. People here don't usually smile - it is considered a sign of `stupidity`. I personally don't have an opinion on this, it's a cultural thing and smiling didn't get us into trouble and we were smiliing 24x7 while we were in Kazakhstan 🇰🇿. Of course you get the `foreigner-pass` so don't fret about it.
 
 I'd usually tell people to be beware about shady areas but in Almaty even those areas were quite ok, they didn't feel as bad or scary. It was mostly people over-staying their visas and living in old apartments trying to earn a living. We couldn't find any homeless people there.
 
