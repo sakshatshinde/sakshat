@@ -13,60 +13,51 @@ ToC = true
 
 ---
 
-Recently I came across a number of people being worried about 5G. They weren't tech-savy or tech-literate. 
+> No GPT was harmed to write this post.
 
-Realising how dangerous it could be — when certain platforms can influence essentially a large portion of our community without being held accountable, since no one can really moderate the entire internet.
+I want to preface this blog post by saying - I don’t want to discourage you or gatekeep software. My intention is not to make you think you can’t do it or shouldn't do it. Instead, I hope this serves as a compass to guide you through your software journey, should you choose to embark on it.
 
-I know the majority of people aren't super-familiar with tech. Nor can expect everyone to go out of their way to gather the `right` information and get it verified. 
+# What do you really like?
 
-> Diving deeper into this matter, I googled about 5G and health concerns regarding the usage of the technology.
+The question is simple, but hard to understand and even harder to answer. Software engineering is not just programming, its building something that can solve real problems. Many people when asked this question would answer `I like programming` or `I like to code` or `I like to build products` and so on. 
 
-#### Two of the most talked points
+On average a software engineer does the following things
+- Attend meetings
+- Discuss various design approaches
+- Validate said approaches
+- Fail to estimate how long its gonna take
+- Finding out it won't work and redo them and the estimates (still wrong btw)
+- Finally writing code
+- ~~Building a product~~ Contributing to a product
+- Fixing bugs and supporting a product through its lifecycle
 
-1. Millimeter-Wave technology
-2. 5G would require **a lot more hardware** than traditional network infrastructure
+If you like the last three points and can tolerate the rest then welcome to the club, you can be an `average` software engineer. 
 
-#### Let's checkout this millimeter wave
+The reason I listed those out is because, it has been trendy to talk about `learn to code` while most of the **software engineering** is `come up with a solution that can be realistically implemented within the upcoming sprint` and also `make sure that it's maintainable`. 
 
-What is harmful for us? :: `Ionizing radiation`
+Its very rare for you to work on something sexy and even rarer to ever encounter a time where those leetcode problems you grinded helped you in some way other than `get lucky with an interviewer`.
 
-Do millimeter waves fall under the category of ionizing radiation? :: `No`
+All I am trying to do here - is to present a case of `reality`. I want people,, mainly college grads to understand that the dream most youtubers are selling you via their bootcamps and courses are not real. At least not to the extent you are imagining them to be. 
 
-Millimeter waves, visible light and others such as radio waves are non-ionizing radition.
+Exceptional engineers rarely stick around for the perks, they do for the great people around them. Together they build products that have the potential to push the boundaries of software.
 
-### Why is ionizing radiation bad for us?
-The reason is simple and quite scary.
-Ionizing radiation can break molecular bonds. Which means it can cause cancer. Its bad stuff and we don't want that in our phones. 
+> Software engineering can be really exciting, especially when you spend time on projects solving problems that you deeply care about, rather than just focusing on your day job
 
-> So millimeter waves are gucci?
+# Learning to code
 
-Hold up, no.. well not entirely. Non-ionizing radiation which is essentially electromagnetic energy produces heat, and as far as we know heat can have negative side effects.
+You start your journey by picking a language, sticking to it, trying out a bunch of paths like - `gamedev` `web` `embedded/systems` `mobile` see what interests you, keep your head down and do what you love, there will come a time when you are rewarded for your consistency.
 
-> [Safe for Generations to Come](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4629874/) by IEEE’s International Committee on Electromagnetic Safety on the biological effects of radio frequencies found "no adverse health effects that were not thermally related"
+> Build build build.
 
-I found one interesting thing in the above linked research paper, SAR values. 
+Build more, build bad programs, build programs that are not so idiomatic, get feedback and improve. Gauge your interest. Understand that creating a product involves much more than simply writing code. 
 
-The SAR is a `quantitative measure` of RF power absorbed in a living body. It is a function of the distributions of the electric field and tissue properties (mass density and conductivity) throughout the exposed tissue
+# Don't be afraid to say `programming is not for me`.
 
-I knew that I remember reading about `SAR` on my mobile phone. And I tried to find the co-relation. Turns out you can check your phone's SAR value by dialing *#07# on your phone/dialler pad. 
+Programming is not for everyone. Everyone shouldn't code. It's pure FOMO that drives a good chunk of people into this craft and leads them to persevere just enough to secure an unfulfilling job. Besides If you just like `tech` and don't like programming you can tryout following domains
 
-My phone's SAR value is : 1.10 W/kg
-And yes there is a limit, which is **1.6 W/kg**
-
-Go ahead and check your phone's SAR value too and if its over the limit I suggest you look for a new one.
-
-Coming to my *scientific* conclusion, I don't find enough evidence to convince myself that 5G is after our lives. 
-
-### More hardware more problems?
-So I can see how this might seem a little scary. Apparently 5G waves can't travel long distances. So naturally we need more *transmission devices* overall. That means a good amount of these devices which emit **radiation** (not bad radiation but still) could be exposed to people than 3G and 4G services.
-
-But.. Carriers don't intend to deploy these devices everywhere. Maybe deploying millions of small devices all over the country or (the world potentially) seems like a small maintenance nightmare.   
-
-Some carriers are using low-band frequencies which are generally used to broadcast TV signal. Others are using a combination of mid-band (which delivers 5G) and millimeter-wave tech in select few locations.
-
-> The wireless industry is focused on using mid and low-band frequencies for 5G 
-
-Deploying a massive number of millimeter-wave hardware will be time-consuming and expensive than just utilising existing network infrastructure. 
-
-### Rest easy 5G is not going to kill us
-Hope you enjoyed this article. Educate people around you and trust our scientists and engineers who are working very hard to make this world a better place :D
+- Networking and Data Centers
+- IT System Admins and DevOps
+- Software Sales
+- Product Management
+- Technical Writing
+- Software Support and Testing
