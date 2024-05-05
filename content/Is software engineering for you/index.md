@@ -25,17 +25,13 @@ On average a software engineer does the following things
 - Attend meetings
 - Discuss various design approaches
 - Validate said approaches
-- Fail to estimate how long its gonna take
+- Fail to estimate how long its gonna take to build that feature
 - Finding out it won't work and redo them and the estimates (still wrong btw)
-- Finally writing code
-- ~~Building a product~~ Contributing to a product
-- Fixing bugs and supporting a product through its lifecycle
+- Finally writing bug-ridden code, that gets an instant LGTM!
+- ~~Building a product~~ Contributing to a well-established legacy codebase
+- Fixing bugs and supporting a ~~product~~ legacy codebase through its lifecycle
 
-If you like the last three points and can tolerate the rest then welcome to the club, you can be an `average` software engineer. 
-
-The reason I listed those out is because, it has been trendy to talk about `learn to code` while most of the **software engineering** is `come up with a solution that can be realistically implemented within the upcoming sprint` and also `make sure that it's maintainable`. 
-
-Its very rare for you to work on something sexy and even rarer to ever encounter a time where those leetcode problems you grinded helped you in some way other than `get lucky with an interviewer`.
+If you like the last three points and can tolerate the rest then welcome to the club, you can be an `average` software engineer. The reason I listed those out is because, it has been trendy to talk about `learn to code` while most of the **software engineering** is `come up with a solution that can be realistically implemented within the upcoming sprint` and also `make sure that it's maintainable`. It's very rare for you to work on something sexy and even rarer to ever encounter a time where those leetcode problems you grinded helped you in some way other than `get lucky with an interviewer`.
 
 All I am trying to do here - is to present a case of `reality`. I want people,, mainly college grads to understand that the dream most youtubers are selling you via their bootcamps and courses are not real. At least not to the extent you are imagining them to be. 
 
