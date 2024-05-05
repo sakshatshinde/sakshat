@@ -31,9 +31,9 @@ On average a software engineer does the following things
 - ~~Building a product~~ Contributing to a well-established legacy codebase
 - Fixing bugs and supporting a ~~product~~ legacy codebase through its lifecycle
 
-If you like the last three points and can tolerate the rest then welcome to the club, you can be an `average` software engineer. The reason I listed those out is because, it has been trendy to talk about `learn to code` while most of the **software engineering** is `come up with a solution that can be realistically implemented within the upcoming sprint` and also `make sure that it's maintainable`. It's very rare for you to work on something sexy and even rarer to ever encounter a time where those leetcode problems you grinded helped you in some way other than `get lucky with an interviewer`.
+If you like the last three points and can tolerate the rest then welcome to the club, you can be an `average` software engineer. The reason I listed those out is because, it has been trendy to talk about `learn to code` while most of the software engineering is `come up with a solution that can be realistically implemented within the upcoming sprint` and also `make sure that it's maintainable`. It's very rare for you to work on something sexy and even rarer to ever encounter a time where those leetcode problems you grinded helped you in some way other than `get lucky with an interviewer`.
 
-All I am trying to do here - is to present a case of `reality`. I want people,, mainly college grads to understand that the dream most youtubers are selling you via their bootcamps and courses are not real. At least not to the extent you are imagining them to be. 
+All I am trying to do here - is to present a case of `reality`. I want people, mainly college grads to understand that the dream most youtubers are selling you via their bootcamps and courses are not real. At least not to the extent you are imagining them to be. 
 
 Exceptional engineers rarely stick around for the perks, they do for the great people around them. Together they build products that have the potential to push the boundaries of software.
 
@@ -41,9 +41,9 @@ Exceptional engineers rarely stick around for the perks, they do for the great p
 
 # Learning to code
 
-You start your journey by picking a language, sticking to it, trying out a bunch of paths like - `gamedev` `web` `embedded/systems` `mobile` see what interests you, keep your head down and do what you love, there will come a time when you are rewarded for your consistency.
+You start your journey by picking a language, sticking to it, trying out a bunch of paths like - `gamedev` `web` `embedded/systems` `mobile` see what interests you, keep your head down and do what you love. Discover your strengths, seek help, get enough sleep, don't be afraid to look like a fool, take breaks, find solace in not being the best - but never stop improving. There will come a time when you are rewarded for your consistency.
 
-> Build build build.
+> Software is hard, but it only gets easier the more you build. Build build build.
 
 Build more, build bad programs, build programs that are not so idiomatic, get feedback and improve. Gauge your interest. Understand that creating a product involves much more than simply writing code. 
 
@@ -57,3 +57,13 @@ Programming is not for everyone. Everyone shouldn't code. It's pure FOMO that dr
 - Product Management
 - Technical Writing
 - Software Support and Testing
+
+# Make a difference at your workplace
+
+Earlier I mentioned `spend time on projects solving problems that you deeply care about, rather than just focusing on your day job`. What if I tell you there is middle-ground? Do what I did and build tools for your team and the teams around you. Last year I wanted to write `rust` and get serious with it, so I did what shouldn't be done - pick a language and shoe-horn it into a solution. Surprsingly it worked and the tool came out to be half decent. Working on that project at my day-job (in my free time during the work hours) has given me immense pleasure and fulfillment. 
+
+So it can be done, given the culture at your work allows it.
+
+# Parting thoughts
+
+Software engineering can be very rewarding, but please don't get into it due to FOMO or because it seems shiny, especailly for the perks. Given the current climate in the industry I hope a lot of people have realised `tech` is not invincible. And eventually every industry goes through a cycle. Software can be a real pain sometimes - and for something you’ll be doing well into the future, it’s wise to pick a pursuit that you’re truly in love with.
