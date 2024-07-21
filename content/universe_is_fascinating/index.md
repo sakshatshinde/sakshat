@@ -32,3 +32,9 @@ Some fascinating topics in biology like [`flagellar motor`](https://theaveragesc
 <iframe width="560" height="315" src="https://packaged-media.redd.it/whldwwfbsuyc1/pb/m2-res_720p.mp4?m=DASHPlaylist.mpd&v=1&e=1721566800&s=99387b67ad7e8e59a5e0458bfd5ae8a124a5d850#t=2.984349"></iframe>
 
 Video courtesy of Prashant Singh
+
+Some of my favorite people are -
+
+[Roger Penrose](https://www.nobelprize.org/prizes/physics/2020/penrose/) - [Roger Penrose on Joe Rogan Podcast](https://www.youtube.com/watch?v=GEw0ePZUMHA)
+
+
