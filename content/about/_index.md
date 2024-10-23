@@ -21,7 +21,8 @@ Awards
 
 Projects that I am proud of shipping
 
-- AT&T Hyperlocal Marketing, FiberKit, HomeTechProtection
+- [AT&T HomeTechProtection](https://www.att.com/offers/hometech-protection/)
+- AT&T Hyperlocal Marketing, FiberKit
 - [DirecTV - Gemini](https://www.directv.com/technology/gemini/)
 - [AT&T Affordable Connectivity Program](https://www.att.com/affordable-connectivity-program/)
 
