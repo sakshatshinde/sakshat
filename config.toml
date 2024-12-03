@@ -61,7 +61,7 @@ theme_color = "green"
 
 # How many menu items to show on desktop. if you set this to 0, only submenu
 # button will be visible.
-show_menu_items = 3
+show_menu_items = 4
 
 # set theme to full screen width.
 full_width = true
@@ -81,7 +81,7 @@ center = false
 # copyright = "copyright notice here"
 
 # What is displayed in the top left corner of the website. Default is zerm.
-logo_text = "sakshat"
+logo_text = "sakshat's blog"
 
 # Link in logo. Default returns you to $BASE_URL.
 logo_home_link = "/"
@@ -92,7 +92,7 @@ main_menu = [
     { url = "/about/", name = "about" },
     { url = "/contact/", name = "contact" },
     { url = "https://github.com/sakshatshinde", name = "github", external = true },
-    { url = "https://sakshat.framer.ai", name = "portfolio", external = true },
+    { url = "/portfolio/", name = "portfolio" },
     { url = "https://www.behance.net/sakshat", name = "behance", external = true },
 ]
 
