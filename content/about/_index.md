@@ -3,10 +3,10 @@ title = "about"
 path = "about"
 
 [extra]
-date = 2024-06-17
+date = 2025-01-21
 +++
 
-Computer Engineer
+Computer Engineer and Product Enthusiast
 
 Sr. Systems Analyst @ [Amdocs](https://www.amdocs.com/)
 `rust` `python` `sql` `linux` `product-design` `figma` `product-management`
@@ -15,6 +15,7 @@ Sr. Systems Analyst @ [Amdocs](https://www.amdocs.com/)
 
 Awards
 
+- InnovaATTe Ideation 2024 Challenge Winner
 - AT&T Innovator 2024
 - Karate – 1 Silver, 2 Bronze (State level)
 
@@ -32,13 +33,14 @@ Projects that I am proud of shipping at Amdocs
 Publications
 
 - [Survey of Open-Source Tools for Monitoring I/O & Storage Performance of HPC Systems](http://www.ijctjournal.org/archives/ijct-v8i1p3.pdf)
+- [Learn how operating systems work](https://dev.to/sakshatshinde/learn-how-operating-systems-work-3kog)
 
 ---
 
 Projects that I work on in my free time :)
 
-- [Tokei](https://github.com/sakshatshinde/tokei/blob/master/README.md) `Your ultimate window to all things anime` (OpenSource)
-- Carelog `A patient data store built with SQLite, Rust and Egui` (Closed Source)
+- [Tokei](https://github.com/ScrexyScroo/tokei) `Your ultimate window to all things anime` (OpenSource)
+- [Carelog](https://github.com/sakshatshinde/carelog) `A patient data store built with SQLite, Rust and Egui` (OpenSource)
 - Vaxe `An experimental middleware to programmatically access Amdocs DBs` (Internal tool used at Amdocs)
 - TableWiz `A simple frontend to automatically create GRT tables, powered by Vaxe` (Internal tool used at Amdocs)
 - [Jinjja](https://github.com/sakshatshinde/jinjja) `Find the best products for your cash` (OpenSource)
