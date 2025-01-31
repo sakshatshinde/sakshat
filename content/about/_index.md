@@ -21,6 +21,12 @@ Awards
 
 ---
 
+Case Study
+
+- Swiggy [ On time delivery deteriorating](../swiggy-case-study/)
+
+---
+
 Projects that I am proud of shipping at Amdocs
 
 - [AT&T HomeTechProtection](https://www.att.com/offers/hometech-protection/)
@@ -32,7 +38,7 @@ Projects that I am proud of shipping at Amdocs
 
 Publications
 
-- [Survey of Open-Source Tools for Monitoring I/O & Storage Performance of HPC Systems](http://www.ijctjournal.org/archives/ijct-v8i1p3.pdf)
+- [Survey of Open-Source Tools for Monitoring I/O & Storage Performance of HPC Systems](https://www.researchgate.net/publication/348919968_Survey_of_Open_Source_Tools_for_Monitoring_IO_Storage_Performance_of_HPC_Systems)
 - [Learn how operating systems work](https://dev.to/sakshatshinde/learn-how-operating-systems-work-3kog)
 
 ---
