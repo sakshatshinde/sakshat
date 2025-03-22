@@ -46,6 +46,7 @@ Publications
 Projects that I work on in my free time :)
 
 - [Tokei](https://github.com/ScrexyScroo/tokei) `Your ultimate window to all things anime` (OpenSource)
+- [ApexFlow](https://github.com/sakshatshinde/ApexFlow) `All in one AI powered financial markets app` (OpenSource)
 - [Carelog](https://github.com/sakshatshinde/carelog) `A patient data store built with SQLite, Rust and Egui` (OpenSource)
 - Vaxe `An experimental middleware to programmatically access Amdocs DBs` (Internal tool used at Amdocs)
 - TableWiz `A simple frontend to automatically create GRT tables, powered by Vaxe` (Internal tool used at Amdocs)
