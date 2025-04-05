@@ -11,7 +11,7 @@ date=2024-12-03
 Your ultimate window to all things anime
 
 <details>
-<summary>Screenshots</summary>
+<summary>Screenshots - Click me!</summary>
 
 ![NA](391927283-03ae0a31-ff0e-4ec6-bb64-157ada67b8eb.png)
 ![NA](391925313-3e2e5524-168f-4574-863a-46eec952c670.png)
@@ -26,7 +26,7 @@ Your ultimate window to all things anime
 A simple patient data store built with SQLite, Rust and EGUI
 
 <details>
-<summary>Screenshots</summary>
+<summary>Screenshots - Click me!</summary>
 
 ![alt text](391929903-0f917345-b613-4b88-94d3-68f1aaf82c0e.png)
 
@@ -40,12 +40,27 @@ A simple patient data store built with SQLite, Rust and EGUI
 
 ---
 
+#### ApexFlow
+
+All in one AI powered financial markets app 
+
+<details>
+<summary>Screenshots - Click me!</summary>
+
+![alt text](420586489-8adcab56-6058-4802-a2b8-98444f22a0a1.png)
+
+![alt text](422322169-9b07fb21-3574-4cf2-91a9-72d21542b8fc.png)
+
+![alt text](422322347-feeb9354-0f90-4a35-ae95-2ccd3ee931c6.png)
+
+</details>
+
 #### [Jinjja](https://jinjja.pages.dev/)
 
 Find the best products for your cash
 
 <details>
-<summary>Screenshots</summary>
+<summary>Screenshots - Click me!</summary>
 
 ![image](https://user-images.githubusercontent.com/30901276/202233945-d6c56d29-05e2-4735-a063-9a9305b42af2.png)
 
@@ -64,7 +79,7 @@ Find the best products for your cash
 A storage monitoring tool for CDAC's High Performance Computing systems
 
 <details>
-<summary>Screenshots</summary>
+<summary>Screenshots - Click me!</summary>
 
 ![](https://raw.githubusercontent.com/sakshatshinde/argus/refs/heads/master/grafana_argus_cdac.png)
 
