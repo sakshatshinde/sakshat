@@ -8,8 +8,8 @@ date = 2025-01-21
 
 Computer Engineer and Product Enthusiast
 
-Sr. Systems Analyst @ [Amdocs](https://www.amdocs.com/)
-`rust` `python` `sql` `linux` `product-design` `figma` `product-management`
+Software Engineer @ [Siemens](https://www.siemens.com/en-us/company/about/businesses/digital-industries/)
+`rust` `python` `sql` `linux` `product-design` `product-management`
 
 ---
 
