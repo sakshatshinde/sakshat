@@ -11,7 +11,7 @@ description = "I'm writing this blog to just get stuff out on the ether"
 default_language = "en"
 
 # Whether to generate a RSS feed automatically
-generate_feed = true
+generate_feeds = true
 # 'atom.xml' (default if unspecified) and 'rss.xml' are officially supported
 # values for feed_filename in this theme. All other filenames will assume a
 # link type of 'application/rss+xml'.
