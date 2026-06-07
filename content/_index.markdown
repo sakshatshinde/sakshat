@@ -6,7 +6,7 @@ title: Home
 
 ---
 
-I work as a Software Engineer @ [Siemens](https://www.siemens.com/en-us/company/about/businesses/digital-industries/) in the R&D Network Topology team developing deployment infrastructure for [Teamcenter](https://www.siemens.com/en-us/products/teamcenter/). Previously I worked @ [Amdocs](https://www.amdocs.com/) for AT&T US on their ordering systems for AT&T DirecTV and their wireline products.
+I work as a Software Engineer @ [Siemens](https://www.siemens.com/en-us/company/about/businesses/digital-industries/) in the R&D Network Topology team developing deployment infrastructure for [Teamcenter](https://www.siemens.com/en-us/products/teamcenter/). Previously I worked @ [Amdocs](https://www.amdocs.com/) for AT&T US on their ordering systems for AT&T DirecTV and wireline products.
 
 I live by one rule: [K.I.S.S](https://en.wikipedia.org/wiki/KISS_principle) and spend remainder of my time being curious about the world around me.
 
