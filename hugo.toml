@@ -1,0 +1,14 @@
+baseURL = "https://sakshat.pages.dev/"
+locale = "en-us"
+title = "Sakshat's Blog"
+theme = "hugo-xmin"
+
+[params]
+footer = "Sakshat Shinde :: © {Year} :: [CCC0 1.0 Universal](https://choosealicense.com/licenses/cc0-1.0/)"
+description = "Sakshat Shinde's personal blog"
+
+# [menus]
+#     [[menus.main]]
+#     name = "Home"
+#     pageRef = "/"
+#     [[menus.blog]]
