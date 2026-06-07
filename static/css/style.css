@@ -1,0 +1,334 @@
+:root {
+    --bg: #f5f0e1;
+    --paper: #fffdf7;
+
+    --text: #202020;
+    --muted: #666;
+
+    --border: #333;
+    --border-light: #bdb7aa;
+
+    --code-bg: #f4f0e5;
+    --link: #0044aa;
+    --link-hover: #aa3300;
+}
+
+/* ======================================== */
+/* Page */
+/* ======================================== */
+
+body {
+    max-width: 860px;
+
+    margin: 2rem auto;
+    padding: 0 1rem;
+
+    background: var(--bg);
+    color: var(--text);
+
+    font-family:
+        "IBM Plex Mono",
+        "JetBrains Mono",
+        "Courier New",
+        monospace;
+
+    font-size: 15px;
+    line-height: 1.55;
+
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+}
+
+/* ======================================== */
+/* Main Content Area */
+/* ======================================== */
+
+main {
+    position: relative;
+
+    background: var(--paper);
+
+    border: 2px solid var(--border);
+
+    padding: 1.5rem 1.75rem;
+
+    box-shadow:
+        4px 4px 0 rgba(0, 0, 0, 0.05);
+
+    overflow-wrap: break-word;
+}
+
+/* subtle corner details */
+
+main::before {
+    content: "";
+
+    position: absolute;
+
+    top: 8px;
+    left: 8px;
+
+    width: 18px;
+    height: 18px;
+
+    border-top: 1px solid var(--border-light);
+    border-left: 1px solid var(--border-light);
+
+    pointer-events: none;
+}
+
+main::after {
+    content: "";
+
+    position: absolute;
+
+    right: 8px;
+    bottom: 8px;
+
+    width: 18px;
+    height: 18px;
+
+    border-right: 1px solid var(--border-light);
+    border-bottom: 1px solid var(--border-light);
+
+    pointer-events: none;
+}
+
+/* ======================================== */
+/* Header */
+/* ======================================== */
+
+.title {
+    font-size: 1.9rem;
+    letter-spacing: 1px;
+
+    margin: 0 0 .3rem;
+}
+
+.article-meta {
+    color: var(--muted);
+    margin-bottom: .75rem;
+}
+
+/* ======================================== */
+/* Navigation */
+/* ======================================== */
+
+.menu {
+    margin: .75rem 0 1rem;
+    padding: 0;
+}
+
+.menu li {
+    display: inline-block;
+    margin-right: .35rem;
+}
+
+.menu a {
+    text-decoration: none;
+
+    padding: .2rem .55rem;
+
+    border: 1px solid var(--border-light);
+
+    color: var(--text);
+    background: transparent;
+}
+
+.menu a:hover {
+    background: #efeadb;
+}
+
+/* ======================================== */
+/* Typography */
+/* ======================================== */
+
+h1 {
+    margin: 1.25rem 0 .5rem;
+}
+
+h2 {
+    margin: 1rem 0 .35rem;
+    font-size: 1.25rem;
+}
+
+h3 {
+    margin: .8rem 0 .3rem;
+    font-size: 1.05rem;
+}
+
+h4 {
+    margin: .7rem 0 .25rem;
+}
+
+p {
+    margin: .55rem 0;
+}
+
+/* ======================================== */
+/* Lists */
+/* ======================================== */
+
+ul,
+ol {
+    margin: .5rem 0;
+    padding-left: 1.4rem;
+}
+
+li {
+    margin: .15rem 0;
+}
+
+/* ======================================== */
+/* Links */
+/* ======================================== */
+
+a {
+    color: var(--link);
+}
+
+a:hover {
+    color: var(--link-hover);
+}
+
+/* ======================================== */
+/* Code */
+/* ======================================== */
+
+pre {
+    background: var(--code-bg);
+
+    border: 1px solid var(--border-light);
+    border-left: 4px solid #444;
+
+    padding: .8rem;
+
+    margin: .75rem 0;
+
+    overflow-x: auto;
+
+    line-height: 1.5;
+}
+
+code {
+    font-size: .95em;
+}
+
+:not(pre)>code {
+    background: var(--code-bg);
+
+    border: 1px solid var(--border-light);
+
+    padding: .08rem .3rem;
+}
+
+pre code {
+    background: transparent;
+    border: none;
+    padding: 0;
+}
+
+/* ======================================== */
+/* Quotes */
+/* ======================================== */
+
+blockquote {
+    margin: .75rem 0;
+
+    padding: .2rem 0 .2rem .8rem;
+
+    border-left: 3px solid var(--border-light);
+
+    color: var(--muted);
+}
+
+/* ======================================== */
+/* Images & Media */
+/* ======================================== */
+
+img,
+video,
+iframe {
+    display: block;
+
+    max-width: 100%;
+    height: auto;
+
+    margin: 1rem auto;
+
+    background: white;
+
+    border: 1px solid var(--border-light);
+
+    padding: 6px;
+
+    box-sizing: border-box;
+}
+
+img:hover {
+    border-color: var(--border);
+}
+
+figcaption {
+    text-align: center;
+
+    font-size: .9rem;
+    color: var(--muted);
+
+    margin-top: -.5rem;
+    margin-bottom: .75rem;
+}
+
+/* ======================================== */
+/* Tables */
+/* ======================================== */
+
+table {
+    width: 100%;
+
+    border-collapse: collapse;
+
+    margin: .75rem 0;
+}
+
+th {
+    background: #f4f0e5;
+}
+
+th,
+td {
+    border: 1px solid var(--border-light);
+    padding: .35rem .5rem;
+}
+
+/* ======================================== */
+/* Divider */
+/* ======================================== */
+
+hr {
+    border: none;
+
+    border-top: 1px dashed var(--border-light);
+
+    margin: 1rem 0;
+}
+
+/* ======================================== */
+/* Footer */
+/* ======================================== */
+
+footer {
+    margin-top: 1.5rem;
+    padding-top: .5rem;
+
+    color: var(--muted);
+}
+
+/* ======================================== */
+/* Selection */
+/* ======================================== */
+
+::selection {
+    background: #222;
+    color: #fffdf7;
+}
