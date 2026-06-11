@@ -25,9 +25,9 @@ I ❤️ rust, linux and product design
 
 #### More personal stuff about me...
 
-Mostly spend my time learning new computer magic, rest of it goes towards anime/k-dramas/movies.
+Most of my time is spent on learning new computer magic, rest of it goes towards anime/k-dramas/movies.
 
-I've been blessed with friends who share the same passion of exploring the world and an understanding partner who is always by my side. For hobbies, I mostly love to make new stuff - software or otherwise, traveling, and indulge in novel experiences (recently snorkeling!). Badminton is my goto sport, in the past I was an avid gamer.
+I'm fortunate to have friends who share my passion for exploring the world, and an understanding partner who is always by my side. When I am not binging stuff - you will find me traveling, trying something new (recently snorkeling!). Badminton is my goto sport, in the past I was an avid gamer.
 
 ---
 ## Posts
