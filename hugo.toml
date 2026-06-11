@@ -7,6 +7,11 @@ theme = "hugo-xmin"
 footer = "Sakshat Shinde :: © {Year} :: [CCC0 1.0 Universal](https://choosealicense.com/licenses/cc0-1.0/)"
 description = "Sakshat Shinde's personal blog"
 
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
 # [menus]
 #     [[menus.main]]
 #     name = "Home"
