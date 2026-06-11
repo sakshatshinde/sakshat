@@ -6,7 +6,7 @@ date: 2026-06-07
 
 If I had to describe this trip: it was absolutely chaotic. Questionable decisions were made, mixed in with absolutely **ZERO** research (not a norm for us, I guess we are getting old) and filled with a lot of waiting and moving around. But eventually we had some great experiences, and tried something totally new! 
 
-Before I talk more about our Philippines 🇵🇭 adventure with Sujit and Ankit, I'd like to chat about how we cheated a bit and took a layover of at KLIA of about `10h` - and since all of us are a bit unhinged we decided that it'd be a great idea to enter Malaysia at around `21:00` and somehow make it to the KL Tower and come back before our flight leaves the next morning.
+Before I talk more about our Philippines 🇵🇭 adventure with Sujit and Ankit, I'd like to chat about how we cheated a bit and took a layover at Malaysia 🇲🇾 of about `10h` - and since all of us are a bit unhinged we decided that it'd be a great idea to enter Malaysia at around `21:00` and somehow make it to the KL Tower and come back before our flight leaves the next morning.
 
 > Might not have been the greatest idea
 
@@ -31,15 +31,18 @@ We finally took a sigh of relief that we could atleast get a bus ride back to KL
 
 The buses at KL Sentral start back up at 3 am for people who are wondering. So we got the tickets and went back to the airport. We had the courage to do all this, because Malaysian Airlines was holding our luggage for us, now I wish they hadn't.
 
+---
+
 Onto the Philippines!
 
 ## Hello Cebu :)
-
+Will fill this ...
 ## BGC Ghosttown
-
+Will fill this ...
 ## Moalboal
-
+Will fill this ...
 ## Back to Cebu
+Will fill this ...
 
 ---
 
