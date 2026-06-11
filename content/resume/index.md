@@ -69,11 +69,15 @@ Product & System Design, Agile, Scrum, Jira, Trello, Microsoft Office, Figma, Re
 
 Built an oci-image customization platform service enabling Siemens Teamcenter customers to customize their installations.
 
+`rust` [`oci-image-spec`](https://specs.opencontainers.org/image-spec/)
+
 ---
 
 ## Autotcinstall
 
 An awesome dev-tooling, helping teams across the Platform Engineering vertical setup Teamcenter and interdependent microservices for quick debugging.
+
+`python`
 
 ---
 
@@ -81,11 +85,15 @@ An awesome dev-tooling, helping teams across the Platform Engineering vertical s
 
 A custom OCI registry read-through caching platform service, supporting request coalescing for high throughput deployments.
 
+`C#` `ASP.NET` [`oci-distribution-spec`](https://specs.opencontainers.org/distribution-spec/?v=v1.0.0)
+
 ---
 
 ## Vaxe
 
 A high-performance REST API middleware built with Rust and Axum, enabling applications to programmatically access Oracle databases and streamline data retrieval.
+
+`rust` `oracle-db` `axum` 
 
 ---
 
@@ -93,11 +101,15 @@ A high-performance REST API middleware built with Rust and Axum, enabling applic
 
 A frontend application that automates the generation of SQL scripts, validations, and other production support workflows.
 
+`python` `streamlit`
+
 ---
 
 ## Carelog
 
 A patient data management system built with SQLite, Rust, and egui.
+
+`sqlite` `rust` `egui`
 
 ---
 
@@ -105,11 +117,15 @@ A patient data management system built with SQLite, Rust, and egui.
 
 An AI-powered financial markets platform built with Qt and Python, featuring Google Gemini integration, market news, global indices, and analytics.
 
+`ai` `python` `QT` `
+
 ---
 
 ## Tokei
 
 An anime-centric platform built with Tauri, Svelte, and Rust, featuring MPV video playback, AniList integration, and qBittorrent support.
+
+`iced` `rust` `libmpv` `windows api`
 
 ---
 
