@@ -1,7 +1,7 @@
 ---
 title: "Resume"
 description: "Sakshat Shinde Software Engineer Resume"
-date: "2026-01-06"
+date: "2026-06-06"
 ---
 
 # Sakshat Shinde
@@ -69,13 +69,19 @@ Product & System Design, Agile, Scrum, Jira, Trello, Microsoft Office, Figma, Re
 
 Built an oci-image customization platform service enabling Siemens Teamcenter customers to customize their installations.
 
+---
+
 ## Autotcinstall
 
-Awesome dev-tooling, helping teams across the Platform Engineering vertical help setup Teamcenter and microservices.
+An awesome dev-tooling, helping teams across the Platform Engineering vertical setup Teamcenter and interdependent microservices for quick debugging.
+
+---
 
 ## Teamcenter OCI registry
 
 A custom OCI registry read-through caching platform service, supporting request coalescing for high throughput deployments.
+
+---
 
 ## Vaxe
 
