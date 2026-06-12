@@ -67,7 +67,7 @@ Product & System Design, Agile, Scrum, Jira, Trello, Microsoft Office, Figma, Re
 
 ## Teamcenter OCI Gen
 
-Built an oci-image customization platform service enabling Siemens Teamcenter customers to customize their installations.
+A customer-focused platform for generating and customizing OCI container images for Teamcenter deployments, enabling reproducible, environment-specific installations at scale.
 
 `rust` [`oci-image-spec`](https://specs.opencontainers.org/image-spec/)
 
@@ -75,7 +75,7 @@ Built an oci-image customization platform service enabling Siemens Teamcenter cu
 
 ## Autotcinstall
 
-An awesome dev-tooling, helping teams across the Platform Engineering vertical setup Teamcenter and interdependent microservices for quick debugging.
+An internal developer platform that automates Teamcenter and microservice environment setup, helping engineering teams spin up reproducible development environments in minutes.
 
 `python`
 
@@ -83,7 +83,7 @@ An awesome dev-tooling, helping teams across the Platform Engineering vertical s
 
 ## Teamcenter OCI registry
 
-A custom OCI registry read-through caching platform service, supporting request coalescing for high throughput deployments.
+A custom OCI registry caching platform that leverages read-through caching and request coalescing to reduce registry load, eliminate duplicate downloads, and improve deployment throughput enabling faster and more efficient Teamcenter deployments at scale.
 
 `C#` `ASP.NET` [`oci-distribution-spec`](https://specs.opencontainers.org/distribution-spec/?v=v1.0.0)
 
