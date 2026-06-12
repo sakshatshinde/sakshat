@@ -36,13 +36,39 @@ The buses at KL Sentral start back up at 3 am for people who are wondering. So w
 Onto the Philippines!
 
 ## Hello Cebu :)
-Will fill this ...
+
+`View outside of our stay, Lapu-Lapu City`
+![Cebu 1st Day](IMG20260418195014.webp)
+<small>© 2026 Sakshat Shinde. All Rights Reserved.</small>
+
 ## BGC Ghosttown
-Will fill this ...
+
+The only place in Manila that looked remotely lively... 
+
+`Pasig River Esplanade`
+![](IMG20260420191047.webp)
+<small>© 2026 Sakshat Shinde. All Rights Reserved.</small>
 ## Moalboal
-Will fill this ...
+
+Moalboal was definitely the peak of this trip.
+
+`Just a random stop - way to Moalboal`
+![](IMG20260422115159.webp)
+<small>© 2026 Sakshat Shinde. All Rights Reserved.</small>
+
+`We got lost? Thanks google maps - this is not the white beach`
+![](IMG20260422180513.webp)
+
+`Calm at the beach`
+![](IMG20260422183127.webp)
+<small>© 2026 Sakshat Shinde. All Rights Reserved.</small>
+
 ## Back to Cebu
-Will fill this ...
+
+
+`TOP of Cebu`
+![](IMG20260424212607.webp)
+<small>© 2026 Sakshat Shinde. All Rights Reserved.</small>
 
 ---
 
@@ -111,4 +137,5 @@ Cost Summary
 
 ---
 
-This blog is still in progress...
+This is still not complete...
+
