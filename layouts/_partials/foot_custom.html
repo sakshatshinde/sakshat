@@ -5,6 +5,9 @@
         if (!toggle || !icon) return;
 
         var stored = localStorage.getItem("theme");
+        var systemDark = window.matchMedia(
+            "(prefers-color-scheme: dark)",
+        ).matches;
 
         function apply(theme) {
             document.documentElement.setAttribute("data-theme", theme);
@@ -14,6 +17,8 @@
 
         if (stored) {
             apply(stored);
+        } else if (systemDark) {
+            apply("dark");
         }
 
         toggle.addEventListener("click", function () {

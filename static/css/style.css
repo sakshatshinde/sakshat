@@ -275,7 +275,7 @@ code {
     font-size: 0.9rem;
 }
 
-:not(pre)>code {
+:not(pre) > code {
     background: var(--code-bg);
 
     border: 1px solid var(--border-light);
