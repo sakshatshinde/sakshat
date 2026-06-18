@@ -4,28 +4,40 @@ input,
 textarea,
 button,
 select {
-font-family:
-"IBM Plex Mono",
-"JetBrains Mono",
-"Courier New",
-monospace !important;
+    font-family:
+        "IBM Plex Sans",
+        "Segoe UI",
+        system-ui,
+        -apple-system,
+        sans-serif !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family:
+        "IBM Plex Sans",
+        "Segoe UI",
+        system-ui,
+        -apple-system,
+        sans-serif !important;
 }
 
 code,
 pre,
 kbd,
 samp {
-font-family:
-"IBM Plex Mono",
-"JetBrains Mono",
-"Courier New",
-monospace !important;
+    font-family:
+        "IBM Plex Mono", "JetBrains Mono", "Courier New", monospace !important;
 }
 
 code {
-font-size: 0.95em;
+    font-size: 0.95em;
 }
 
 pre {
-font-size: 0.95em;
+    font-size: 0.95em;
 }

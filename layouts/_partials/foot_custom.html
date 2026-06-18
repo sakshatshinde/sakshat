@@ -1,6 +1,25 @@
-<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
-<script src="//cdn.jsdelivr.net/npm/@xiee/utils/js/math-code.min.js" defer></script>
-<script src="//cdn.jsdelivr.net/npm/katex/dist/katex.min.js" defer></script>
-<script src="//cdn.jsdelivr.net/npm/katex/dist/contrib/auto-render.min.js" defer></script>
-<script src="//cdn.jsdelivr.net/npm/@xiee/utils/js/render-katex.js" defer></script>
-<script src="//cdn.jsdelivr.net/npm/@xiee/utils/js/center-img.min.js" defer></script>
+<script>
+    (function () {
+        var toggle = document.getElementById("theme-toggle");
+        var icon = document.getElementById("theme-toggle-icon");
+        if (!toggle || !icon) return;
+
+        var stored = localStorage.getItem("theme");
+
+        function apply(theme) {
+            document.documentElement.setAttribute("data-theme", theme);
+            icon.textContent = theme === "dark" ? "☀️" : "🌙";
+            localStorage.setItem("theme", theme);
+        }
+
+        if (stored) {
+            apply(stored);
+        }
+
+        toggle.addEventListener("click", function () {
+            var current = document.documentElement.getAttribute("data-theme");
+            var next = current === "dark" ? "light" : "dark";
+            apply(next);
+        });
+    })();
+</script>

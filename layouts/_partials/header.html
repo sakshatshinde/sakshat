@@ -7,7 +7,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
-    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
     <title>{{ .Title }} | {{ .Site.Title }}</title>
     <link rel="stylesheet" href="{{ "css/style.css" | relURL }}" />
     <link rel="stylesheet" href="{{ "css/fonts.css" | relURL }}" />
@@ -16,10 +16,14 @@
 
 <body>
     <nav>
-        <ul class="menu">
-            {{ range .Site.Menus.main }}
-            <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
-            {{ end }}
-        </ul>
+        <a href="/">Home</a> &nbsp; &nbsp;
+        <a href="/posts">Posts</a> &nbsp; &nbsp;
+        <a href="https://github.com/sakshatshinde" target="_blank">Github</a> &nbsp; &nbsp;
+        <a href="https://www.linkedin.com/in/sakshatshinde" target="_blank">LinkedIn</a> &nbsp; &nbsp;
+        <a href="/resume">Resume</a> &nbsp; &nbsp;
+        <a href="/projects">Projects</a>
+        <button id="theme-toggle" type="button" aria-label="Toggle dark mode" title="Toggle dark mode">
+            <span id="theme-toggle-icon">🌙</span>
+        </button>
         <hr />
     </nav>
