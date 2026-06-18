@@ -183,11 +183,11 @@ main::after {
 /* ======================================== */
 
 nav {
-    background: var(--paper);
-    border: 1.5px solid var(--border);
+    /* background: var(--paper); */
+    /* border: 1.5px solid var(--border); */
     padding: 0.35rem 1rem;
     margin-bottom: 1rem;
-    box-shadow: 2px 2px 0 rgba(0, 0, 0, 0.04);
+    /* box-shadow: 2px 2px 0 rgba(0, 0, 0, 0.04); */
 }
 
 .nav-links {
