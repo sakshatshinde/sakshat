@@ -1,8 +1,7 @@
 <script>
     (function () {
         var toggle = document.getElementById("theme-toggle");
-        var icon = document.getElementById("theme-toggle-icon");
-        if (!toggle || !icon) return;
+        if (!toggle) return;
 
         var stored = localStorage.getItem("theme");
         var systemDark = window.matchMedia(
@@ -11,7 +10,7 @@
 
         function apply(theme) {
             document.documentElement.setAttribute("data-theme", theme);
-            icon.textContent = theme === "dark" ? "☀️" : "🌙";
+            toggle.textContent = theme === "dark" ? "☀️" : "🌙";
             localStorage.setItem("theme", theme);
         }
 
@@ -25,6 +24,13 @@
             var current = document.documentElement.getAttribute("data-theme");
             var next = current === "dark" ? "light" : "dark";
             apply(next);
+        });
+
+        toggle.addEventListener("keydown", function (e) {
+            if (e.key === "Enter" || e.key === " ") {
+                e.preventDefault();
+                toggle.click();
+            }
         });
     })();
 </script>

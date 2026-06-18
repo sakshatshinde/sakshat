@@ -1,0 +1,42 @@
+<footer>
+{{ with .Site.Params.footer }}
+<hr/>
+<p>{{ replace . "{Year}" now.Year }} <span id="theme-toggle" role="button" tabindex="0" aria-label="Toggle dark mode" title="Toggle dark mode" style="cursor:pointer;user-select:none;">🌙</span></p>
+{{ end }}
+</footer>
+<script>
+(function () {
+    var toggle = document.getElementById("theme-toggle");
+    if (!toggle) return;
+
+    var stored = localStorage.getItem("theme");
+    var systemDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+
+    function apply(theme) {
+        document.documentElement.setAttribute("data-theme", theme);
+        toggle.textContent = theme === "dark" ? "☀️" : "🌙";
+        localStorage.setItem("theme", theme);
+    }
+
+    if (stored) {
+        apply(stored);
+    } else if (systemDark) {
+        apply("dark");
+    }
+
+    toggle.addEventListener("click", function () {
+        var current = document.documentElement.getAttribute("data-theme");
+        var next = current === "dark" ? "light" : "dark";
+        apply(next);
+    });
+
+    toggle.addEventListener("keydown", function (e) {
+        if (e.key === "Enter" || e.key === " ") {
+            e.preventDefault();
+            toggle.click();
+        }
+    });
+})();
+</script>
+</body>
+</html>

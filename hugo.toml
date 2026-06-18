@@ -4,7 +4,7 @@ title = "Sakshat's Blog"
 theme = "hugo-xmin"
 
 [params]
-footer = "Sakshat Shinde :: © {Year} :: 🏴‍☠️ 👀"
+footer = "Sakshat Shinde :: © {Year} :: 🏴‍☠️ 👀 :: "
 description = "Sakshat Shinde's personal blog"
 
 [markup]
