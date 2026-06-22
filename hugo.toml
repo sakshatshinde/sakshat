@@ -12,8 +12,7 @@ description = "Sakshat Shinde's personal blog"
 [markup.goldmark.renderer]
 unsafe = true
 
-# [menus]
-#     [[menus.main]]
-#     name = "Home"
-#     pageRef = "/"
-#     [[menus.blog]]
+[module]
+[[module.mounts]]
+source = "static"
+target = "static"
