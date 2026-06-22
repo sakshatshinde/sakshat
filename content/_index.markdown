@@ -23,7 +23,7 @@ I ❤️ rust, linux and product design
 
 ---
 
-#### More personal stuff about me...
+**More personal stuff about me...**
 
 Most of my time is spent on learning new computer magic, rest of it goes towards anime/k-dramas/movies. When I am not binging stuff - you will find me traveling, trying something new (recently snorkeling!). Badminton is my goto sport, in the past I was an avid gamer.
 

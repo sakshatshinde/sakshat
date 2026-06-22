@@ -5,6 +5,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . | plainify | truncate 160 }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}">
 
     <!-- Preload critical fonts -->
     <link rel="preload" href="/fonts/IBMPlexSans-Regular.ttf" as="font" type="font/ttf" crossorigin>
