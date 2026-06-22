@@ -1,29 +1,35 @@
+<!-- 1. Theme Colors -->
 <meta name="theme-color" media="(prefers-color-scheme: light)" content="#f5f0e1" />
 <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#1a1815" />
+
+<!-- 2. SEO Meta Description -->
+<meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . | plainify | truncate 160 }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}">
+
+<!-- 3. Critical Font Preloading (Fixes Console Warnings) -->
+<link rel="preload" href="/fonts/IBMPlexSans-Regular.ttf" as="font" type="font/ttf" crossorigin>
+<link rel="preload" href="/fonts/IBMPlexSans-SemiBold.ttf" as="font" type="font/ttf" crossorigin>
+<link rel="preload" href="/fonts/IBMPlexSans-Bold.ttf" as="font" type="font/ttf" crossorigin>
+<link rel="preload" href="/fonts/IBMPlexMono-Regular.ttf" as="font" type="font/ttf" crossorigin>
+<link rel="preload" href="/fonts/IBMPlexMono-Medium.ttf" as="font" type="font/ttf" crossorigin>
+
+<!-- 4. Font Override (Beats theme's fonts.css) -->
+<style>
+    body, html, input, textarea, button, select {
+        font-family: "IBM Plex Sans", "Segoe UI", system-ui, -apple-system, sans-serif !important;
+    }
+    code, pre, kbd, samp {
+        font-family: "IBM Plex Mono", "JetBrains Mono", "Courier New", monospace !important;
+    }
+</style>
+
+<!-- 5. Math & Scripts -->
 <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex/dist/katex.min.css" />
 <script src="//cdn.jsdelivr.net/npm/@xiee/utils/js/math-code.min.js" defer></script>
 <script src="//cdn.jsdelivr.net/npm/katex/dist/katex.min.js" defer></script>
 <script src="//cdn.jsdelivr.net/npm/katex/dist/contrib/auto-render.min.js" defer></script>
 <script src="//cdn.jsdelivr.net/npm/@xiee/utils/js/render-katex.js" defer></script>
 <script src="//cdn.jsdelivr.net/npm/@xiee/utils/js/center-img.min.js" defer></script>
-<style>
-    body,
-    html,
-    input,
-    textarea,
-    button,
-    select {
-        font-family: "IBM Plex Sans", "Segoe UI", system-ui, -apple-system, sans-serif !important;
-    }
 
-    code,
-    pre,
-    kbd,
-    samp {
-        font-family: "IBM Plex Mono", "JetBrains Mono", "Courier New", monospace !important;
-    }
-</style>
-<!-- Cloudflare Web Analytics -->
+<!-- 6. Analytics -->
 <script defer src='https://static.cloudflareinsights.com/beacon.min.js'
     data-cf-beacon='{"token": "f5142ea5a9c24f5290ee43a7fc5fc6c3"}'></script>
-<!-- End Cloudflare Web Analytics -->

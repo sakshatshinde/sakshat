@@ -1,18 +1,10 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.Language.Locale }}">
 
-<hr/>
 <head>
+    <hr />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . | plainify | truncate 160 }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}">
-
-    <!-- Preload critical fonts -->
-    <link rel="preload" href="/fonts/IBMPlexSans-Regular.ttf" as="font" type="font/ttf" crossorigin>
-    <link rel="preload" href="/fonts/IBMPlexSans-SemiBold.ttf" as="font" type="font/ttf" crossorigin>
-    <link rel="preload" href="/fonts/IBMPlexSans-Bold.ttf" as="font" type="font/ttf" crossorigin>
-    <link rel="preload" href="/fonts/IBMPlexMono-Regular.ttf" as="font" type="font/ttf" crossorigin>
-    <link rel="preload" href="/fonts/IBMPlexMono-Medium.ttf" as="font" type="font/ttf" crossorigin>
 
     <title>{{ .Title }} | {{ .Site.Title }}</title>
     <link rel="stylesheet" href="{{ "css/style.css" | relURL }}" />
