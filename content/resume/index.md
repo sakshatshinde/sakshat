@@ -8,17 +8,19 @@ date: "2026-06-06"
 
 Pune, MH, India
 
+🎴 <a href="https://drive.google.com/file/d/1U1aavlnWpDLuTCRYghUC4dxtgUnenPpn/view?usp=drive_link" target="_blank" rel="noopener">**View & download PDF version of the Resume**</a>
+
 ---
 
 # Skills
 
 ### Technical
 
-Python, Rust, SQL, Groovy, Linux, Git/SVN, Grafana, Oracle DB, PostgreSQL, Firebase, Streamlit, RESTful APIs, AWS, OCI, CI/CD Workflows, Pub/Sub, Tokio, Axum, Qt, Tauri, Docker, InfluxDB, Bazel, Open Container Initiative (OCI) Specification
+Python, Rust, SQL, Groovy, Linux, Bazel, Open Container Initiative (OCI) spec, Git/SVN, Grafana, Oracle DB, Postgres, Firebase, Streamlit, RESTful APIs, AWS, OCI Cloud, CI/CD workflows, Pub/Sub, Tokio, Axum, Qt, Tauri, Docker, Influx DB
 
 ## Other
 
-Product & System Design, Agile, Scrum, Jira, Trello, Microsoft Office, Figma, Requirement Gathering, Customer Demos & Solution Design, User Acceptance Testing (UAT), FOCUS 7 Mainframe
+Agentic AI & Orchestration, Prompt engineering, Product and System design, Agile, Scrum, Jira, Trello, Microsoft Office, Figma, Requirement gathering, Customer Demos and Solution Design, UAT, FOCUS 7 Mainframe
 
 ---
 
@@ -27,7 +29,7 @@ Product & System Design, Agile, Scrum, Jira, Trello, Microsoft Office, Figma, Re
 ## Software Engineer — Siemens DISW (R&D), Pune
 **Feb 2026 – Present**
 
-- Developed platform-level tooling leveraging AI to simplify Teamcenter deployment and internal testing workflows, achieving an **80% reduction in deployment time** (30 → 5 min)
+- Developed platform-level customer centric tooling leveraging AI to simplify Teamcenter deployment and testing workflows, achieving an 80% reduction in deployment time (30 → 5 min)
 - Built a high-performance read-through cache for OCI-compliant registries with request coalescing to eliminate redundant layer pulls and accelerate concurrent extraction workloads
 
 ---
@@ -75,7 +77,7 @@ A customer-focused platform for generating and customizing OCI container images 
 
 ## Autotcinstall
 
-An internal developer platform that automates Teamcenter and microservice environment setup, helping engineering teams spin up reproducible development environments in minutes.
+A platform tool that automates Teamcenter and microservice environment setup, helping engineering teams spin up reproducible development environments in minutes.
 
 `python`
 
