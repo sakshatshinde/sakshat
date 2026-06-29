@@ -79,7 +79,7 @@ Understanding the above solution, right now we already have sufficient gps data 
 - Cost (in various parameters: Warehousing, Currency exchange)
 - Capacity utilization
 - \# of trucks/vehicles grounded (vehicle utilization rate)
-- \# of shipments $Q(n-1)$ vs $Q(n)$ and so on
+- \# of shipments `Q(n-1)` vs `Q(n)` and so on
 - Customer Backorder Rate (It might be that we leased out our vehicles and now we can’t deliver what customer expects within a timeframe)
 - Freight Cost per Unit Shipped (will vary depending on the geography. Eg. India to China is cheap but India to USA is expensive)
 
