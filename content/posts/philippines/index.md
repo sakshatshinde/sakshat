@@ -163,7 +163,7 @@ Cost Summary
 | Total Accommodation Cost | ₹23,585 |
 | Cost Per Person | ₹7,862 |
 
-> **A detailed cost-sheet has been attached here:** [Sujit is still working on it](/404)
+> **A detailed cost-sheet has been attached here:** [Thanks to Sujit for working on this!](https://drive.google.com/file/d/1OzUufu-BsHZU4zAhcCTiCui7pZj87msg/view?usp=sharing)
 
 ---
 
